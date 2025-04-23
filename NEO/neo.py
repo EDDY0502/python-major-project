@@ -338,8 +338,8 @@ class MainThread(QThread):  #---->class inherit
 
             #To make call
             elif "call" in query:
-                account_sid = "ACbc6eac821f11ae5c292a3c592f53826b"
-                auth_token = "8df1e9ec6fb5c1344aacb82773de4db5"
+                account_sid = "ACbc6eac821f11ae5c292a3c592f53826b05"  #----be
+                auth_token = "8df1e9ec6fb5c1344aacb82773de4db502"     #----smart uk
 
                 client = Client(account_sid, auth_token)
 
