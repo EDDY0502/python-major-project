@@ -1,0 +1,37 @@
+open notepad ----- close notepad
+open comand prompt
+open camera
+ip address 
+what is ___ according to wikipedia
+open youtube 
+open facebook
+open stack overflow
+search __ on google / search on google
+whatsapp
+play__on youtube / play 
+no thanks(close)
+set alarm
+tell me a joke
+shutdown the system
+restart the system
+sleep the system
+switch the window
+where am i
+instagram or instagram profile --then yes to download profile picture or *silent*
+screenshot or take screenshot
+calculate (only add and sub)
+temprature/ weather 
+battery
+internet speed
+call
+message
+volume up
+volume down
+mute volume
+
+
+
+
+#######  NEWS
+#######  EMAIL
+#######  TWITTER
